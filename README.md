@@ -1,5 +1,21 @@
 # Projeto_Modulo_03
 
+
+<h2 align='center'>
+  Antonio Drago Caetano
+</h2>
+
+<p align='center'>  
+  
+  <a href="https://www.linkedin.com/in/antoniodragoc/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>  
+  <a href="https://www.kaggle.com/antoniodragoc/">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
+  </a>  
+</p>
+
+#
 ## Análise dos dados da COVID-19 com o auxílio de ferramentas gráficas, além do uso o Facebook Prophet para análise e previsão de séries temporais
 
 
